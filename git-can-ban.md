@@ -23,8 +23,8 @@ git config --global --list
 - Đầu tiên thì chúng ta cần config cho git biết chúng ta là ai khi mà đưa code lên
 
 ```bash
-git config --global user.name "Du Thanh Duoc"
-git config --global user.email duthanhduoc@gmail.com
+git config --global user.name "viettrungIT3"
+git config --global user.email viettrungcntt03@gmail.com
 ```
 
 > **Lưu ý**: Với terminal sử dụng Git bash thì khi dùng tiếng Việt với Unikey nó sẽ dễ bị lỗi. Nên chuyển Unikey sang tiếng Anh nhé.
