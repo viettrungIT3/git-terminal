@@ -23,7 +23,7 @@ git config --global --list
 - Đầu tiên thì chúng ta cần config cho git biết chúng ta là ai khi mà đưa code lên
 
 ```bash
-git config --global user.name "viettrungIT3"
+git config --global user.name viettrungIT3
 git config --global user.email viettrungcntt03@gmail.com
 ```
 
